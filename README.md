@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![Logo of AutoGPT](autogpt_logo.png)
+![Logo of AutoGPT](autogptlogo.png)
 
 # **AutoGPT: Build, Deploy, and Run AI Agents**
 
